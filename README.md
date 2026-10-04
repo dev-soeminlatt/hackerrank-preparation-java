@@ -1,2 +1,2 @@
 # hackerrank-preparation-java
-This is hackerrank1 month preparation kit with java
+HackerRank coding challenge solutions and Java interview preparation exercises.
